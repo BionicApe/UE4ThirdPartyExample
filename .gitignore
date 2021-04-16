@@ -16,9 +16,10 @@
 *.tlog
 *.ilk
 *.dll.recipe
-
 *.idb
+*.ipdb
 
+*FileListAbsolute.txt
 
 # Precompiled Headers
 *.gch
