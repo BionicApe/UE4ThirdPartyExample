@@ -1,0 +1,1 @@
+A:\Dis\ThirPartyExample\Plugins\BAAwsSdk\Source\ThirdParty\BAAwsSdkLibrary\x64\Release\ExampleLibrary.dll

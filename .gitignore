@@ -7,6 +7,19 @@
 *.o
 *.obj
 
+#debug/binary
+*.pdb
+*.exp
+*.iobj
+*.iobj
+*.log
+*.tlog
+*.ilk
+*.dll.recipe
+
+*.idb
+
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -35,6 +48,11 @@
 *.xcodeproj
 *.xcworkspace
 *.sln
+!ExampleLibrary.sln
+!ExampleLibrary.vcxproj
+!ExampleLibrary.vcxproj.filters
+!ExampleLibrary.vcxproj.user
+
 *.suo
 *.opensdf
 *.sdf
