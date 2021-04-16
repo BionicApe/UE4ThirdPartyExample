@@ -13,6 +13,8 @@ Copile:
 
 1 Go to "./Plugins/BAAwsSdk/Source/ThirdParty/BAAwsSdkLibrary" and open ExampleLibrary.sln for Vsiual Studio or Xcode project (not tested).
 
-2 Build the solution ExampleLibrary.
+2 Change the "Solution Configuration" to "Release".
 
-3 Open Project "ThirdPartyExample.uproject" and/or generate visual studio/xcode project files.
+3 Build the solution ExampleLibrary.
+
+4 Open Project "ThirdPartyExample.uproject" and/or generate visual studio/xcode project files.
