@@ -11,7 +11,11 @@ https://docs.unrealengine.com/en-US/ProductionPipelines/BuildTools/UnrealBuildTo
 
 Copile:
 
+<<<<<<< HEAD
 1 Go to "./Plugins/BaAwsSdk/Source/ThirdParty/BaAwsSdkLibrary" and open ExampleLibrary.sln for Vsiual Studio or Xcode project (not tested).
+=======
+1 Go to "./Plugins/BAAwsSdk/Source/ThirdParty/BAAwsSdkLibrary" and open ExampleLibrary.sln for Vsiual Studio.
+>>>>>>> 7f96eae710c404c3d1876d42e1d3bf6f7e31c7a5
 
 2 Change the "Solution Configuration" to "Release".
 
