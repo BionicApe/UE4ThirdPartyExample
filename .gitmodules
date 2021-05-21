@@ -7,3 +7,6 @@
 [submodule "Plugins/OnlineSubsystemCognito"]
 	path = Plugins/OnlineSubsystemCognito
 	url = https://github.com/BionicApe/OnlineSubsystemCognito
+[submodule "Plugins/BaAwsSdk"]
+	path = Plugins/BaAwsSdk
+	url = https://github.com/BionicApe/BaAwsSdk
