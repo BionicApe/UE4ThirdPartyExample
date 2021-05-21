@@ -1,0 +1,9 @@
+[submodule "Plugins/BAMultiplayer"]
+	path = Plugins/BAMultiplayer
+	url = https://github.com/BionicApe/BAMultiplayer
+[submodule "Plugins/BionicApeUI"]
+	path = Plugins/BionicApeUI
+	url = https://github.com/BionicApe/BionicApeUI
+[submodule "Plugins/OnlineSubsystemCognito"]
+	path = Plugins/OnlineSubsystemCognito
+	url = https://github.com/BionicApe/OnlineSubsystemCognito

@@ -12,8 +12,7 @@ public class ThirPartyExample : ModuleRules
 			"Core", 
 			"CoreUObject", 
 			"Engine", 
-			"InputCore",
-			"BAAwsSdkLibrary"
+			"InputCore"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
