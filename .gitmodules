@@ -10,3 +10,6 @@
 [submodule "Plugins/BaAwsSdk"]
 	path = Plugins/BaAwsSdk
 	url = https://github.com/BionicApe/BaAwsSdk
+[submodule "Plugins/ThePrisonDAO"]
+	path = Plugins/ThePrisonDAO
+	url = https://github.com/BionicApe/ThePrisonDAO.git
