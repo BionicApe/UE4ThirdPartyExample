@@ -25,3 +25,6 @@
 [submodule "Plugins/MorphToolsPlugin"]
 	path = Plugins/MorphToolsPlugin
 	url = https://github.com/BionicApe/MorphToolsPlugin
+[submodule "Plugins/SkeletalMeshMerger"]
+	path = Plugins/SkeletalMeshMerger
+	url = https://github.com/BionicApe/SkeletalMeshMerger
