@@ -13,3 +13,6 @@
 [submodule "Plugins/ThePrisonDAO"]
 	path = Plugins/ThePrisonDAO
 	url = https://github.com/BionicApe/ThePrisonDAO.git
+[submodule "Plugins/MySQL"]
+	path = Plugins/MySQL
+	url = https://github.com/BionicApe/MySQL
