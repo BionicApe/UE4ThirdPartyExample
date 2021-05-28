@@ -19,3 +19,6 @@
 [submodule "Plugins/BAMultiplayerUIk"]
 	path = Plugins/BAMultiplayerUI
 	url = https://github.com/BionicApe/BAMultiplayerUI
+[submodule "Plugins/CharacterCreation"]
+	path = Plugins/CharacterCreation
+	url = https://github.com/BionicApe/CharacterCreation
