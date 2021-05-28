@@ -16,3 +16,6 @@
 [submodule "Plugins/MySQL"]
 	path = Plugins/MySQL
 	url = https://github.com/BionicApe/MySQL
+[submodule "Plugins/BAMultiplayerUIk"]
+	path = Plugins/BAMultiplayerUI
+	url = https://github.com/BionicApe/BAMultiplayerUI
