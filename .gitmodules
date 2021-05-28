@@ -22,3 +22,6 @@
 [submodule "Plugins/CharacterCreation"]
 	path = Plugins/CharacterCreation
 	url = https://github.com/BionicApe/CharacterCreation
+[submodule "Plugins/MorphToolsPlugin"]
+	path = Plugins/MorphToolsPlugin
+	url = https://github.com/BionicApe/MorphToolsPlugin
