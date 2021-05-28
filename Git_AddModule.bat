@@ -1,7 +1,10 @@
-set /p ModuleName="Enter Module Name: "
+@echo off
 
-git submodule add https://github.com/BionicApe/'%ModuleName' Plugins/'%ModuleName'
+set /p ModName="Enter Module Name: "
+
+git submodule add https://github.com/BionicApe/%ModName% Plugins/%ModName%
 git submodule update --init --recursive
-git commit -m "Added new Plugin %ModuleName"
+git commit -m "Added new Plugin %ModName%"
 
-cmd /k
+@echo off
+set /p DUMMY=Hit ENTER to continue...

@@ -8,4 +8,4 @@ git add -A .
 git commit -am "%Message%"
 git push --recurse-submodules=on-demand
 
-cmd /k
+set /p DUMMY=Hit ENTER to continue...
